@@ -1,2 +1,5 @@
 Alternative for Microsoft Paint: 
 https://paintz.zmyaro.com/
+
+html shorten :
+https://emmet.io/ (package for sublime)
