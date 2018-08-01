@@ -3,3 +3,8 @@ https://paintz.zmyaro.com/
 
 html shorten :
 https://emmet.io/ (package for sublime)
+
+Linux software center :
+https://snapcraft.io/
+
+
