@@ -1,14 +1,5 @@
-# software install in ubuntu 
+# How to write good README.md
+[See here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-```
-sudo apt install softwarename
-
-```
-
-### If anything goes wrong, you can fix most of them by installing their dependencies as
-```
-sudo apt install -f
-
-```
-
-
+# How to install software in ubuntu
+[Install process](https://askubuntu.com/questions/307280/how-do-i-install-applications-in-ubuntu)
